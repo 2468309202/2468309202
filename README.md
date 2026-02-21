@@ -1,84 +1,95 @@
-<h1 align="center">Hi 👋 I'm 大飞</h1>
+<!-- ===================== HEADER ===================== -->
+
+<h1 align="center">🚀 吴尚飞 | Automation Engineer</h1>
+
 <p align="center">
-自动化脚本玩家 ｜ 效率工具控 ｜ 持续折腾中 🚀
+自动化脚本玩家 ｜ 接口研究 ｜ 运维折腾 ｜ 效率至上
+</p>
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=2468309202&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+<img src="https://img.shields.io/github/followers/2468309202?style=for-the-badge"/>
+<img src="https://img.shields.io/github/stars/2468309202?style=for-the-badge"/>
 </p>
 
 ---
 
-## 📊 GitHub 统计
+<!-- ===================== STATS ===================== -->
 
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=2468309202&show_icons=true&theme=tokyonight" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=2468309202&layout=compact&theme=tokyonight" />
-
-</div>
-
----
-
-## 🎨 多主题展示
-
-<div align="center">
-
-### 🌌 Tokyo Night
-<img src="https://github-readme-stats.vercel.app/api?username=2468309202&show_icons=true&theme=tokyonight" />
-
-### 🧛 Dracula
-<img src="https://github-readme-stats.vercel.app/api?username=2468309202&show_icons=true&theme=dracula" />
-
-### 🌃 Radical
-<img src="https://github-readme-stats.vercel.app/api?username=2468309202&show_icons=true&theme=radical" />
-
-### 🟣 Synthwave
-<img src="https://github-readme-stats.vercel.app/api?username=2468309202&show_icons=true&theme=synthwave" />
-
-### 🌲 Gruvbox
-<img src="https://github-readme-stats.vercel.app/api?username=2468309202&show_icons=true&theme=gruvbox" />
-
-</div>
-
----
-
-## 🧠 技术活动
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=2468309202&theme=tokyonight" />
-
-</div>
-
----
-
-## 🛠 技术方向
-
-<div align="center">
-
-自动化脚本 · 接口研究 · 运维部署 · 工具开发 · 青龙任务
-
-</div>
-
----
-
-## ⭐ 关于这个仓库
-
-这个仓库用于：
-
-✔ 自动化脚本分享  
-✔ 技术实验记录  
-✔ 实用工具集合  
-✔ 运行环境配置  
-
-目标：让重复的事情自动完成。
-
----
-
-## ❤️ 支持一下
-
-如果这些内容对你有帮助：
-
-⭐ Star 一下仓库  
-🍺 一起交流自动化技术  
+## 📊 GitHub 数据总览
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=2468309202&label=Profile%20views&color=0e75b6&style=flat" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=2468309202&show_icons=true&theme=tokyonight&count_private=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=2468309202&layout=compact&theme=tokyonight"/>
 </p>
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=2468309202&theme=tokyonight"/>
+</p>
+
+---
+
+<!-- ===================== SNAKE ===================== -->
+
+## 🐍 贡献图
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+</p>
+
+---
+
+<!-- ===================== TECH STACK ===================== -->
+
+## 🛠 技术栈
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=python,bash,nodejs,docker,linux,git,github,vscode"/>
+
+</p>
+
+---
+
+<!-- ===================== AUTOMATION ===================== -->
+
+## 🤖 自动化领域
+
+<div align="center">
+
+自动签到  
+接口逆向  
+青龙面板任务  
+服务器运维  
+脚本工具开发  
+数据抓取  
+推送通知系统  
+
+</div>
+
+---
+
+<!-- ===================== THEME WALL ===================== -->
+
+## 🎨 主题卡片墙
+
+<div align="center">
+
+<img height="150" src="https://github-readme-stats.vercel.app/api?username=2468309202&theme=tokyonight&show_icons=true"/>
+<img height="150" src="https://github-readme-stats.vercel.app/api?username=2468309202&theme=radical&show_icons=true"/>
+<img height="150" src="https://github-readme-stats.vercel.app/api?username=2468309202&theme=gruvbox&show_icons=true"/>
+<img height="150" src="https://github-readme-stats.vercel.app/api?username=2468309202&theme=dracula&show_icons=true"/>
+<img height="150" src="https://github-readme-stats.vercel.app/api?username=2468309202&theme=synthwave&show_icons=true"/>
+
+</div>
+
+---
+
+<!-- ===================== ABOUT ===================== -->
+
+## 👨‍💻 关于我
+
+```text
+专注自动化与效率工具
+能脚本解决绝不手动操作
+持续折腾服务器和接口
