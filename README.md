@@ -69,22 +69,6 @@
 
 ---
 
-<!-- ===================== THEME WALL ===================== -->
-
-## 🎨 主题卡片墙
-
-<div align="center">
-
-<img height="150" src="https://github-readme-stats.vercel.app/api?username=2468309202&theme=tokyonight&show_icons=true"/>
-<img height="150" src="https://github-readme-stats.vercel.app/api?username=2468309202&theme=radical&show_icons=true"/>
-<img height="150" src="https://github-readme-stats.vercel.app/api?username=2468309202&theme=gruvbox&show_icons=true"/>
-<img height="150" src="https://github-readme-stats.vercel.app/api?username=2468309202&theme=dracula&show_icons=true"/>
-<img height="150" src="https://github-readme-stats.vercel.app/api?username=2468309202&theme=synthwave&show_icons=true"/>
-
-</div>
-
----
-
 <!-- ===================== ABOUT ===================== -->
 
 ## 👨‍💻 关于我
