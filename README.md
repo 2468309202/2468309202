@@ -1,6 +1,6 @@
 <!-- ===================== HEADER ===================== -->
 
-<h1 align="center">🚀 吴尚飞 | Automation Engineer</h1>
+<h1 align="center">🚀 manyue | Automation Engineer</h1>
 
 <p align="center">
 自动化脚本玩家 ｜ 接口研究 ｜ 运维折腾 ｜ 效率至上
