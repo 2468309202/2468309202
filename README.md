@@ -18,10 +18,10 @@
 
 ## 📊 GitHub 数据总览
 
-<p align="center">
+<!-- <p align="center">
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=2468309202&show_icons=true&theme=tokyonight&count_private=true"/>
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=2468309202&layout=compact&theme=tokyonight"/>
-</p>
+</p> -->
 
 <p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=2468309202&theme=tokyonight"/>
